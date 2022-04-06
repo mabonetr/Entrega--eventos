@@ -1,0 +1,14 @@
+body {
+  background-color: yellow;
+}
+
+body .banner {
+  background-color: orange;
+  text-align: center;
+  width: 100%;
+}
+
+body .formulario {
+  background-color: #f1e532;
+}
+/*# sourceMappingURL=card.css.map */
